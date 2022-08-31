@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 10:35:23</sys_created_on>
+        <sys_id>5a2620932f619110b5da2d5df699b6b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_788783_waybill_drivers_waybills.x_788783_waybill.Adm Driver</sys_name>
+        <sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope>
+        <sys_security_acl display_value="x_788783_waybill_drivers_waybills">5e2620932f619110b5da2d5df699b6af</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5a2620932f619110b5da2d5df699b6b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 10:35:23</sys_updated_on>
+        <sys_user_role display_value="x_788783_waybill.Adm Driver" name="x_788783_waybill.Adm Driver">d62620932f619110b5da2d5df699b69d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

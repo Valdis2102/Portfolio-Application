@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Waybills for admin" max_length="40" name="x_788783_waybill_waybills_for_admin" sizeclass="0" type="collection">
+        <element label="Average fuel" max_length="40" name="average_fuel" type="integer"/>
+        <element label="Driver" max_length="32" name="driver" reference="sys_user" type="reference"/>
+        <element label="Fuel at the end of the day" max_length="40" name="fuel_end" type="integer"/>
+        <element label="Fuel at the start of the day" max_length="40" name="fuel_start" type="integer"/>
+        <element label="Mileage per day" max_length="40" name="mileage_day" type="integer"/>
+        <element label="Mileage at the end of the day" max_length="40" name="mileage_end" type="integer"/>
+        <element label="Mileage at the start of the day" max_length="40" name="mileage_start" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="driver"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

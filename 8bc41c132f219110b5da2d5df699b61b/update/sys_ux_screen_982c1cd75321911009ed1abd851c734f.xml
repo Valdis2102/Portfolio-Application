@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Waybill Config">942c1cd7f4219110bbef992f2543944f</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Record">558adc930f0210107d20409dc4767e84</macroponent>
+        <macroponent_config/>
+        <name>Record Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Record">9c2c1cd7892191106f9bef2a418b254f</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-08-31 09:51:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>982c1cd75321911009ed1abd851c734f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope>
+        <sys_update_name>sys_ux_screen_982c1cd75321911009ed1abd851c734f</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-08-31 09:51:35</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=982c1cd75321911009ed1abd851c734f"/>
+</record_update>

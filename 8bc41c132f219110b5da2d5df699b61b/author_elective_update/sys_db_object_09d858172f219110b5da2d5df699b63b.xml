@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>For administration</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_788783_waybill_for_administration</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Waybills" name="x_788783_waybill_waybills">2335d0532f219110b5da2d5df699b65b</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-08-31 09:37:08</sys_created_on>
+        <sys_id>09d858172f219110b5da2d5df699b63b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Waybill For Administration</sys_name>
+        <sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope>
+        <sys_update_name>sys_db_object_09d858172f219110b5da2d5df699b63b</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-08-31 09:37:08</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</application>
+        <file_path/>
+        <instance_id>2644091edbb8f70407072f17d4961991</instance_id>
+        <instance_name>dev81257</instance_name>
+        <name>sys_db_object_09d858172f219110b5da2d5df699b63b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>For administration</label><live_feed_enabled>false</live_feed_enabled><name>x_788783_waybill_for_administration</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Waybills" name="x_788783_waybill_waybills">2335d0532f219110b5da2d5df699b65b</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>aes.creator</sys_created_by><sys_created_on>2022-08-31 09:37:08</sys_created_on><sys_id>09d858172f219110b5da2d5df699b63b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Waybill For Administration</sys_name><sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package><sys_policy/><sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope><sys_update_name>sys_db_object_09d858172f219110b5da2d5df699b63b</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2022-08-31 09:37:08</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-605488458</payload_hash>
+        <record_name>For administration</record_name>
+        <reverted_from/>
+        <source>08d45c132f219110b5da2d5df699b623</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-08-31 09:37:08</sys_created_on>
+        <sys_id>45d858172f219110b5da2d5df699b657</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182f342f94a0000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-08-31 09:37:08</sys_updated_on>
+        <type>Table</type>
+        <update_guid>cdd8581772219110821a47f008994e56</update_guid>
+        <update_guid_history>cdd8581772219110821a47f008994e56:-605488458</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 10:26:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>115b29e620f6492eace13fd6c127d724</sys_id>
+        <sys_metadata>09d858172f219110b5da2d5df699b63b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Waybill For Administration</sys_name>
+        <sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope>
+        <sys_scope_delete display_value="">1b7f151ac2ce42f5ada8f1f0e8f4c319</sys_scope_delete>
+        <sys_update_name>sys_db_object_09d858172f219110b5da2d5df699b63b</sys_update_name>
+        <sys_update_version display_value="sys_db_object_09d858172f219110b5da2d5df699b63b">45d858172f219110b5da2d5df699b657</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 10:26:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

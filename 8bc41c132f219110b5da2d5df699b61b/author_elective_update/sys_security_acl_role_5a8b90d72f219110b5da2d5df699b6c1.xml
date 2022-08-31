@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-08-31 09:48:57</sys_created_on>
+        <sys_id>5a8b90d72f219110b5da2d5df699b6c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_788783_waybill_for_administration.x_788783_waybill.Driver</sys_name>
+        <sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope>
+        <sys_security_acl display_value="x_788783_waybill_for_administration">828b90d72f219110b5da2d5df699b6b2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5a8b90d72f219110b5da2d5df699b6c1</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-08-31 09:48:57</sys_updated_on>
+        <sys_user_role display_value="x_788783_waybill.Driver" name="x_788783_waybill.Driver">a16790d32f219110b5da2d5df699b6a0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</application>
+        <file_path/>
+        <instance_id>2644091edbb8f70407072f17d4961991</instance_id>
+        <instance_name>dev81257</instance_name>
+        <name>sys_security_acl_role_5a8b90d72f219110b5da2d5df699b6c1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2022-08-31 09:48:57</sys_created_on><sys_id>5a8b90d72f219110b5da2d5df699b6c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_788783_waybill_for_administration.x_788783_waybill.Driver</sys_name><sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package><sys_policy/><sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope><sys_security_acl display_value="x_788783_waybill_for_administration">828b90d72f219110b5da2d5df699b6b2</sys_security_acl><sys_update_name>sys_security_acl_role_5a8b90d72f219110b5da2d5df699b6c1</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2022-08-31 09:48:57</sys_updated_on><sys_user_role display_value="x_788783_waybill.Driver" name="x_788783_waybill.Driver">a16790d32f219110b5da2d5df699b6a0</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1336990320</payload_hash>
+        <record_name>x_788783_waybill_for_administration.x_788783_waybill.Driver</record_name>
+        <reverted_from/>
+        <source>08d45c132f219110b5da2d5df699b623</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-08-31 09:48:57</sys_created_on>
+        <sys_id>1a8b90d72f219110b5da2d5df699b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182f34dc9e70000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-08-31 09:48:57</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>528b90d7f9219110eb6ed5e9e4959ec4</update_guid>
+        <update_guid_history>528b90d7f9219110eb6ed5e9e4959ec4:1336990320</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_788783_waybill_for_administration.x_788783_waybill.Driver">e41468df2f219110b5da2d5df699b615</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 10:26:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0b8ed8e6b546489b9a259476d413ad21</sys_id>
+        <sys_metadata>5a8b90d72f219110b5da2d5df699b6c1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_788783_waybill_for_administration.x_788783_waybill.Driver</sys_name>
+        <sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package>
+        <sys_parent display_value="">828b90d72f219110b5da2d5df699b6b2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope>
+        <sys_scope_delete display_value="">1b7f151ac2ce42f5ada8f1f0e8f4c319</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_5a8b90d72f219110b5da2d5df699b6c1</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_5a8b90d72f219110b5da2d5df699b6c1">1a8b90d72f219110b5da2d5df699b6c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 10:26:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

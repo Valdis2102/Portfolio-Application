@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_788783_waybill_waybills" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>driver</element>
+            <list_id display_value="x_788783_waybill_waybills" element="NULL" name="x_788783_waybill_waybills" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d191cd32f219110b5da2d5df699b6cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-08-31 09:38:13</sys_created_on>
+            <sys_id>05191cd32f219110b5da2d5df699b6ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-08-31 09:38:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fuel_at_the_end_of_the_day</element>
+            <list_id display_value="x_788783_waybill_waybills" element="NULL" name="x_788783_waybill_waybills" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d191cd32f219110b5da2d5df699b6cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-08-31 09:38:13</sys_created_on>
+            <sys_id>0d191cd32f219110b5da2d5df699b6ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-08-31 09:38:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fuel_at_the_start_of_the_day</element>
+            <list_id display_value="x_788783_waybill_waybills" element="NULL" name="x_788783_waybill_waybills" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d191cd32f219110b5da2d5df699b6cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-08-31 09:38:13</sys_created_on>
+            <sys_id>01191cd32f219110b5da2d5df699b6cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-08-31 09:38:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mileage_at_the_end_of_the_day</element>
+            <list_id display_value="x_788783_waybill_waybills" element="NULL" name="x_788783_waybill_waybills" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d191cd32f219110b5da2d5df699b6cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-08-31 09:38:13</sys_created_on>
+            <sys_id>05191cd32f219110b5da2d5df699b6cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-08-31 09:38:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mileage_at_the_start_of_the_day</element>
+            <list_id display_value="x_788783_waybill_waybills" element="NULL" name="x_788783_waybill_waybills" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d191cd32f219110b5da2d5df699b6cc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-08-31 09:38:13</sys_created_on>
+            <sys_id>09191cd32f219110b5da2d5df699b6cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-08-31 09:38:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_788783_waybill_waybills</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-08-31 09:38:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d191cd32f219110b5da2d5df699b6cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_788783_waybill_waybills</sys_name>
+            <sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope>
+            <sys_update_name>sys_ui_list_x_788783_waybill_waybills_null</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-08-31 09:38:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</application>
+        <file_path/>
+        <instance_id>2644091edbb8f70407072f17d4961991</instance_id>
+        <instance_name>dev81257</instance_name>
+        <name>sys_ui_list_x_788783_waybill_waybills_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_788783_waybill_waybills" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>driver</element><list_id display_value="x_788783_waybill_waybills" element="NULL" name="x_788783_waybill_waybills" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d191cd32f219110b5da2d5df699b6cc</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>aes.creator</sys_created_by><sys_created_on>2022-08-31 09:38:13</sys_created_on><sys_id>05191cd32f219110b5da2d5df699b6ce</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2022-08-31 09:38:13</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>fuel_at_the_end_of_the_day</element><list_id display_value="x_788783_waybill_waybills" element="NULL" name="x_788783_waybill_waybills" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d191cd32f219110b5da2d5df699b6cc</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>aes.creator</sys_created_by><sys_created_on>2022-08-31 09:38:13</sys_created_on><sys_id>0d191cd32f219110b5da2d5df699b6ce</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2022-08-31 09:38:13</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>fuel_at_the_start_of_the_day</element><list_id display_value="x_788783_waybill_waybills" element="NULL" name="x_788783_waybill_waybills" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d191cd32f219110b5da2d5df699b6cc</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>aes.creator</sys_created_by><sys_created_on>2022-08-31 09:38:13</sys_created_on><sys_id>01191cd32f219110b5da2d5df699b6cf</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2022-08-31 09:38:13</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>mileage_at_the_end_of_the_day</element><list_id display_value="x_788783_waybill_waybills" element="NULL" name="x_788783_waybill_waybills" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d191cd32f219110b5da2d5df699b6cc</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>aes.creator</sys_created_by><sys_created_on>2022-08-31 09:38:13</sys_created_on><sys_id>05191cd32f219110b5da2d5df699b6cf</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2022-08-31 09:38:13</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>mileage_at_the_start_of_the_day</element><list_id display_value="x_788783_waybill_waybills" element="NULL" name="x_788783_waybill_waybills" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d191cd32f219110b5da2d5df699b6cc</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>aes.creator</sys_created_by><sys_created_on>2022-08-31 09:38:13</sys_created_on><sys_id>09191cd32f219110b5da2d5df699b6cf</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2022-08-31 09:38:13</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_788783_waybill_waybills</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2022-08-31 09:38:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0d191cd32f219110b5da2d5df699b6cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_788783_waybill_waybills</sys_name><sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package><sys_policy/><sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope><sys_update_name>sys_ui_list_x_788783_waybill_waybills_null</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2022-08-31 09:38:13</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1372153704</payload_hash>
+        <record_name>Waybills</record_name>
+        <reverted_from/>
+        <source>08d45c132f219110b5da2d5df699b623</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-08-31 09:38:13</sys_created_on>
+        <sys_id>81195c172f219110b5da2d5df699b618</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182f343f6800000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-08-31 09:38:13</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>41195c172d2191102834ead570644a18</update_guid>
+        <update_guid_history>41195c172d2191102834ead570644a18:1372153704</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 10:26:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>248261b120564e9cb21247cd047c1e90</sys_id>
+        <sys_metadata>0d191cd32f219110b5da2d5df699b6cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_788783_waybill_waybills</sys_name>
+        <sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package>
+        <sys_parent display_value="">2335d0532f219110b5da2d5df699b65b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope>
+        <sys_scope_delete display_value="">1b7f151ac2ce42f5ada8f1f0e8f4c319</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_788783_waybill_waybills_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_788783_waybill_waybills_null">81195c172f219110b5da2d5df699b618</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 10:26:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

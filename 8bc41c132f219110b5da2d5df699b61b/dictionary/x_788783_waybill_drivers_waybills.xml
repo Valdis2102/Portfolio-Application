@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_788783_waybill_waybills_for_admin" label="Drivers Waybills" max_length="40" name="x_788783_waybill_drivers_waybills" sizeclass="0" type="collection">
+        <element label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
+    </element>
+</database>

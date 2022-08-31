@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_788783_waybill.Driver" name="x_788783_waybill.Driver">a16790d32f219110b5da2d5df699b6a0</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-08-31 09:51:38</sys_created_on>
+        <sys_id>912c1cd72f219110b5da2d5df699b6ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_788783_waybill.Driver</sys_name>
+        <sys_package display_value="Waybill" source="x_788783_waybill">8bc41c132f219110b5da2d5df699b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Waybill">8bc41c132f219110b5da2d5df699b61b</sys_scope>
+        <sys_update_name>sys_user_role_contains_912c1cd72f219110b5da2d5df699b6ee</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-08-31 09:51:38</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
